@@ -5,3 +5,7 @@ Repositório criado durante um aula ao vivo
 
 alteração remota no Readme.md 
 Segunda alteração
+
+**Teste de MarkDown**
+[x] Teste de funcionalidades 
+[] Teste de escrita 
